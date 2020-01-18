@@ -1,5 +1,5 @@
 # Path-Finding-Algorithm
-A Java program that lets you create your own maze, mark the start and end points, and watch an algorithm try and search it's way through.
+A Java program that lets you create your own maze, mark the start and end points, and watch an algorithm try and search it's way through.  This project was completed over the winter break of 2018 when I was really starting to learn more about Java and it's capabilities.
 
 When you first launch the program you are greeted with an empty canvas:
 ![Empty_Canvas](Searching%20Algorithm/ScreenShots/Screen1.png)
