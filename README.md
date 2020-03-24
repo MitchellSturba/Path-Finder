@@ -15,7 +15,7 @@ You can drag the mouse across the squares to map out your very own maze, the onl
 
 ![Empty_Canvas](Searching%20Algorithm/ScreenShots/Screen2.png)
 
-<h2>Seaching Through the Maze</h2>
+<h2>Searching Through the Maze</h2>
 After drawing your maze, marking the start and end positions, you can press the search button, the algorithm will essentialy search down all the paths until it finds the end.  The blue squares are where one branch of the algorithm is currently searching for the red square.
 
 ![Empty_Canvas](Searching%20Algorithm/ScreenShots/Screen3New.png)
