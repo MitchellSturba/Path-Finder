@@ -1,7 +1,9 @@
 # Path-Finder
-
 <h2>Overview</h2>
 A Java program that lets you create your own maze, mark the start and end points, and watch an algorithm try and search it's way through.  This was an independant project that was completed over the winter break of 2018 when I was learning about Java and it's capabilities.  At the time I was unfamilier with sorting algothims so I decieded to code one specifically for this program.  Looking back, the code is similar to breadth-frist search.
+<br>
+
+<img src="Searching%20Algorithm/demo.gif" width="600px">
 
 <h2>Using The Program</h2>
 
