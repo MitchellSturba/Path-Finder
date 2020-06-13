@@ -3,11 +3,7 @@
 A Java program that lets the user create their own maze, mark the start and end points, and watch an algorithm search it's way through.  This was an independant project that was completed over the winter break of 2018 when I was learning about Java and it's capabilities. Below is a demonstration of a custom maze after hitting the "search" button.
 <br><br>
 
-<h2>Demo 1</h2>
 <img src="Searching%20Algorithm/demo.gif" width="50%">
-
-<h2>Demo 2</h2>
-<img src="Searching%20Algorithm/Demo2.gif" width="50%">
 
 
 <h2>Using The Program</h2>
