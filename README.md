@@ -26,5 +26,6 @@ Once the end square is found, the program will automatically map out the most ef
 
 <img src="Searching%20Algorithm/ScreenShots/Screen4.png" width="600px">
 
+<h2> Demo #2 </h2>
 Demo of a different more complex maze:<br>
 <img src="Searching%20Algorithm/Demo2.gif" width="600px">
