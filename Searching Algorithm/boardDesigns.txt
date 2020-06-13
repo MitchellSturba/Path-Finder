@@ -5,3 +5,5 @@ Maze2
 Maze3
 Maze4
 Small Maze
+Maze5
+Maze5
