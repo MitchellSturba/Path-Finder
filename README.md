@@ -13,7 +13,7 @@ When you first launch the program you are greeted with an empty canvas, On the l
 <img src="Searching%20Algorithm/ScreenShots/Screen1.png" width="800px">
 
 <h2>Drawing a Maze</h2>
-You can drag the mouse across the squares to map out your very own maze, the only rules is that there needs to be a minimum of 1 square drawn in a square around the entire maze.  This is to ensure that the algorithm only search inside of the maze and does not continue to seek outside of what is necessary. 
+You can drag the mouse across the squares to map out your very own maze, the only rules is that there needs to be a minimum of 1 square drawn in a square around the entire maze.  This is to ensure that the algorithm only search inside of the maze and does not continue to seek outside of what is necessary. <b>Make sure the maze is surrounded by a 1 layer thick border</b><br>
 
 <img src="Searching%20Algorithm/ScreenShots/Screen2.png" width="800px">
 
